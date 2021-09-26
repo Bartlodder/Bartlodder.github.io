@@ -1,6 +1,5 @@
 ## Introduction
 Hi!
-[Picture website Bart](https://user-images.githubusercontent.com/86434366/134823104-9cf54584-ba4e-4242-bccf-5a39debe954d.jpg)
 
 I am Bart Lodder and I am a neuroscience Graduate student at the lab of Bernardo Sabatini at Harvard Medical school. 
 
